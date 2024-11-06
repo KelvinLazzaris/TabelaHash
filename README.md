@@ -1,0 +1,1 @@
+Este projeto consiste na implementação de uma lista encadeada dupla em C. O objetivo do projeto foi de criar uma lista encadeada capaz de armazenar nomes e implementar operações básicas, que seriam a inserção, remoção e busca.
